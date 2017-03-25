@@ -108,15 +108,30 @@ def test_left(app, canape):
         assert canape.TurnSignalLevel == turn_value
 ```
 
+
+## Jenkins
+
+[Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
+
+![](images/JenkinsPipeline.png)
+
 ## Further Reading/Watching/Listening
 
 ### Articles
 
+#### pytest
+
 - [Why I use py.test and you probably should too](http://halfcooked.com/presentations/pyconau2013/why_I_use_pytest.html)
 - [Testing Python Applications with Pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 
+#### Jenkins / Continous Integration
+
+- [Jenkins Pipeline Documentation](https://jenkins.io/doc/book/pipeline/)
+- [Continuous Integration Essentials](https://codeship.com/continuous-integration-essentials)
+
 ### YouTube
 
+#### pytest
 - EuroPython 2014
   - [Introduction to pytest](https://www.youtube.com/watch?v=LdVJj65ikRY)
   - [Advanced Uses of py.test Fixtures](https://www.youtube.com/watch?v=IBC_dxr-4ps)
@@ -126,9 +141,22 @@ def test_left(app, canape):
   - [Python unit testing - pytest parameters](https://www.youtube.com/watch?v=2EGgtlf7BN0)
 - [Why I use py.test and maybe you should too - PyCon Australia](https://www.youtube.com/watch?v=P-AhpukDIik)
 
+#### Jenkins
+
+- [What is Jenkins | Jenkins Tutorial for Beginners | Jenkins Continuous Integration Tutorial](https://www.youtube.com/watch?v=p7-U1_E_j3w)
+- [Introduction to using Jenkins CI to test your Python code](https://www.youtube.com/watch?v=iGtM_OP01FU)
+- [Introduction to using Jenkins CI with your Python code](https://www.youtube.com/watch?v=81J2KFaKUKE)
+
 ### Podcasts
+
+#### pytest
 
 - [Episode 16 – Holger Krekel \[author of Py.Test\] on Py.Test](https://www.podcastinit.com/episode-16-holger-krekel-on-py-test/) [[mp3](https://www.podcastinit.com/wp-content/uploads/Episode_16_-_Holger_Krekel_on_Pytest.mp3?ptm_source=download&ptm_context=select-button&ptm_request=e7dbc55b990f&ptm_file=Episode_16_-_Holger_Krekel_on_Pytest.mp3#)]
 - [Test & Code: pytest with Raphael Pierzina](http://testandcode.com/24) [[mp3](http://aphid.fireside.fm/d/1437767933/bc7f1faf-8aad-4135-bb12-83a8af679756/c51609b4-a8ef-45c7-ac02-2547f9b58929.mp3)]
+
+#### Jenkins
+
+- [Continuous Delivery with Jenkins Creator Kohsuke Kawaguchi](https://softwareengineeringdaily.com/2015/08/27/continuous-delivery-with-jenkins-creator-kohsuke-kawaguchi/) [[mp3](http://traffic.libsyn.com/sedaily/jenkins_kohsuke_kawaguchi.mp3)]
+- [How to Achieve Continuous Software Delivery Using DevOps Tools and Methodologies](https://www.jfrog.com/blog/podcast-achieve-continuous-software-delivery-using-devops-tools-methodologies/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

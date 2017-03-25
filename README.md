@@ -1,5 +1,7 @@
 # dSpace HIL Testing with ``pytest``
 
+![](images/dspace_pytest.png)
+
 For the purposes of this article I will follow a fake company "*Common Motors*" and the evolution of testing software for each of their three product lines: Vans, Cars, & Trucks.
 
 ## 1. Manual Testing
@@ -26,6 +28,8 @@ As time went on managers and engineers both realized this was time consuming and
 Then along came bench testing.
 
 ### Bench Testing
+
+![](images/M_Lite_Tester_Website.jpg)
 
 ## 2. Automated Testing
 

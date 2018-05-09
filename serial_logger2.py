@@ -14,3 +14,6 @@ except KeyboardInterrupt:
 	pass
 except:
 	raise
+    
+# git remote get-url origin | sed "s/https:\/\//git@/" | sed "s/\.com\//.com:/
+# git remote set-url --push origin

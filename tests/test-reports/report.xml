@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.018"><testcase classname="tests.test_001" file="tests\test_001.py" line="2" name="test_001" time="0.0005006790161132812"><system-out>ce08463c-d072-4251-ab9b-50e294e68703
+2018-05-09T01:46:11.763085+00:00
+</system-out></testcase></testsuite>

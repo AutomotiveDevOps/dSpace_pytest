@@ -1,0 +1,11 @@
+jupyter
+notebook
+
+asammdf
+pyserial
+
+spyder
+versioner
+
+# Found in C:\Program Files (x86)\Kvaser\Canlib\Samples\Python\pycanlib.zip
+canlib-1.5.525-py2.py3-none-any.whl

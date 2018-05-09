@@ -1,0 +1,15 @@
+[submodule ".bootstrap/LLVM"]
+	path = .bootstrap/LLVM
+	url = https://github.com/jed-frey/bootstrap_LLVM.git
+[submodule ".bootstrap/CMake"]
+	path = .bootstrap/CMake
+	url = https://github.com/jed-frey/bootstrap_CMake.git
+[submodule ".bootstrap/MinGW"]
+	path = .bootstrap/MinGW
+	url = https://github.com/jed-frey/bootstrap_MinGW.git
+[submodule ".bootstrap/WinPython"]
+	path = .bootstrap/WinPython
+	url = https://github.com/jed-frey/bootstrap_WinPython.git
+[submodule ".mk_inc"]
+	path = .mk_inc
+	url = https://github.com/jed-frey/make_sandwich.git
